@@ -1,0 +1,24 @@
+{
+  "name": "vue-calendar-datepicker",
+  "version": "1.0.0",
+  "description": "calendar component that use in vue project",
+  "main": "calendar.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leepyng/vue-calendar.git"
+  },
+  "keywords": [
+    "calendar",
+    "vue",
+    "datepicker"
+  ],
+  "author": "Chen Leepyng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leepyng/vue-calendar/issues"
+  },
+  "homepage": "https://github.com/leepyng/vue-calendar#readme"
+}
