@@ -1,4 +1,7 @@
+### 提示
+该插件引用https://github.com/jinzhe/vue-calendar 并一些做了修改
 # vue-calendar-datepikcer
+
 
 ## Install
 
@@ -46,10 +49,4 @@ export default{
 - :months Array * According to the system language changes or custom
 - :events Object * Customize calendar events
 
-### Features
-- You can limit the start and end dates.
-- Customize week and month headlines.
-- Support show Chinese lunar calendar, Chinese festivals, international festivals
-- Support for custom presentation.
-- Support multiple choice
-- Customize calendar events
+
